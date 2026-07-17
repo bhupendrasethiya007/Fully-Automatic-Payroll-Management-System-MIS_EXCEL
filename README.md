@@ -65,18 +65,40 @@ Developed a **Fully Automatic Payroll Management System** in Microsoft Excel tha
 
 ---
 
-## 💼 Business Impact
-
-- Reduced manual payroll processing time.
-- Minimized calculation errors through automation.
-- Improved payroll accuracy and consistency.
-- Simplified attendance and salary management.
-- Enabled faster payroll reporting and salary slip generation.
-
-
 ## 📸 Dashboard Preview
 
-*(Add dashboard screenshots here)*
+## 📅 Employee Attendance Management
+
+Manage employee attendance with an automated attendance tracking system. Attendance records are dynamically linked to payroll calculations, ensuring accurate salary processing.
+
+![Employee Attendance](Emp_attendance.png)
+
+---
+
+## 💰 Payroll Calculation
+
+Automatically calculates employee salaries based on attendance, overtime, allowances, and deductions, reducing manual payroll effort and calculation errors.
+
+![Payroll Sheet](salary_sheet.png)
+
+---
+
+## 🧾 Automatic Salary Slip Generation
+
+Generate professional salary slips automatically for each employee with detailed earnings, deductions, and net salary.
+
+![Salary Slip](salary_slip.png)
+
+---
+## 💼 Business Benefits
+
+- ⏱️ Reduces manual payroll processing time.
+- 📉 Minimizes salary calculation errors.
+- 📊 Provides real-time payroll insights.
+- 📑 Automates salary slip generation.
+- 💰 Improves payroll accuracy and efficiency.
+- 🚀 Helps HR teams streamline payroll operations.
+
 
 ---
 
